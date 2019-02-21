@@ -1,6 +1,6 @@
 ## v2.1.1
 
-- Added support for Material-UI classes prop...
+- Added support for Material-UI classes prop.
 
 ## v2.1.0
 
